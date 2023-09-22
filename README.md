@@ -5,3 +5,6 @@ roblox fps unlocker new available for windows and mac gives you realistic textur
 
 You can also run roblox open terminal paste command and run it yourself
 
+
+
+After executing the script, you may know just click shift f5 on your keyboard and your fps is unlocked
