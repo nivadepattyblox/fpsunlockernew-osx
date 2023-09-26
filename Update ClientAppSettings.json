@@ -1,5 +1,5 @@
 {
-   "DFIntTaskSchedulerTargetFps": 62,
+   "DFIntTaskSchedulerTargetFps": 100,
    "FFlagEnableQuickGameLaunch": true,
    "FFlagFixGraphicsQuality": true,
    "FFlagFixDisconnectedinternetConnection": true,   
